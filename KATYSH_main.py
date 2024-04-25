@@ -8,7 +8,7 @@ from telegram.ext import MessageHandler, ConversationHandler, CallbackContext, f
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 
 # Ініціалізація бота
-bot = telebot.TeleBot('7059182423:AAGkjYejqkDEY3ZsIjOsAXDzYhCYbX3Zwoc')
+bot = telebot.TeleBot('6819832882:AAEAStPoWzqT-r7Cbamvcmy6GlV9apVtCpg')
 
 # Початок роботи з базою даних
 conn = sqlite3.connect('products.db')
